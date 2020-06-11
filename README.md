@@ -4,7 +4,7 @@ In this project, I made a simple mobile app using React-native library of JavaSc
 
 <h2>Requirements and Execution</h2>
 If you're using Linux-based OS, open your terminal, and clone the app using the following command.
-git clone https://github.com/shabidkhan/MyBooks.git 
+<p>git clone https://github.com/shabidkhan/MyBooks.git</P>
 
 
 Next, get into the project-directory, and type the following command to install necessary dependencies onto your system.
