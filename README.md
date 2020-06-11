@@ -3,7 +3,7 @@
 In this project, I made a simple mobile app using React-native library of JavaScript. In this app, I do have Login and Signup page with using Firebbase realtime database.
 
 <h2>Requirements and Execution</h2>
-If you're using Linux-based OS, open your terminal, and clone the app using the following command.
+If you're using Linux-based OS, open your terminal, and clone the app using the following command. 
 <p>git clone https://github.com/shabidkhan/MyBooks.git</P>
 
 
